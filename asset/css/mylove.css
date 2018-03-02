@@ -1,0 +1,26 @@
+@font-face{
+	font-family: 'wakanda';
+	src: url('../font/wakandaforever-regular.ttf') format('truetype');
+}
+
+body {
+	background-image: url(../images/1350.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.content{
+	font-family: 'wakanda';
+	font-size: 50px;
+	font-weight: bold;
+	margin: 150px;
+}
+
+a{
+	color: #000;
+	text-decoration: none;
+}
+a:hover{
+	color: #000;
+	text-decoration: none;
+}
